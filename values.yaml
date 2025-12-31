@@ -1,0 +1,5 @@
+deployment:
+  imageid: 848332098195.dkr.ecr.us-east-1.amazonaws.com/roboshop/frontend
+  version: IMAGE_VERSION
+service:
+  portnumb: 80
